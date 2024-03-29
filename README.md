@@ -20,4 +20,3 @@
 [![My Skills](https://skillicons.dev/icons?i=php,tensorflow,django,js,ts&theme=dark)](https://skillicons.dev)
 
 ##
-![giphy](https://github.com/Klaiancdrosa/Klaiancdrosa/assets/103066223/3860b5cf-1753-4364-bc64-34f701b669d1)
