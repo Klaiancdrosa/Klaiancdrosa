@@ -1,16 +1,22 @@
-### Hi there 👋
+## Meu nome é Klaian Conceição da Rosa. Fique a vontade...
 
-<!--
-**Klaiancdrosa/Klaiancdrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">  
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Klaiancdrosa&show_icons=true&count_private=true&hide_border=true&title_color=be2ed6&icon_color=be2ed6&text_color=fff&bg_color=0d1117"/> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaiancdrosa&layout=compact&hide_border=true&title_color=be2ed6&text_color=fff&bg_color=0d1117" />
+</div>
+
+## Linguagens que utilizo:
+<div style="display: inline_block">
+  
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,mysql,py,vscode,flutter&perline=4)](https://skillicons.dev)
+
+</div>
+
+## Linguagens que estou estudando no momento:
+
+
+[![My Skills](https://skillicons.dev/icons?i=php,tensorflow,django,js,ts&theme=dark)](https://skillicons.dev)
+
+##
