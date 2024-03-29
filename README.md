@@ -10,7 +10,7 @@
 ## Linguagens que utilizo HAHA:
 <div style="display: inline_block">
   
-[![My Skills](https://skillicons.dev/icons?i=cs,css,html,mysql,py,vscode,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,mysql,py,vscode,visualstudio,flutter&perline=4)](https://skillicons.dev)
 
 </div>
 
