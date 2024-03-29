@@ -7,7 +7,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaiancdrosa&layout=compact&hide_border=true&title_color=be2ed6&text_color=fff&bg_color=0d1117" />
 </div>
 
-## Linguagens que utilizo:
+## Linguagens que utilizo HAHA:
 <div style="display: inline_block">
   
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,mysql,py,vscode,flutter&perline=4)](https://skillicons.dev)
@@ -20,3 +20,4 @@
 [![My Skills](https://skillicons.dev/icons?i=php,tensorflow,django,js,ts&theme=dark)](https://skillicons.dev)
 
 ##
+![giphy](https://github.com/Klaiancdrosa/Klaiancdrosa/assets/103066223/3860b5cf-1753-4364-bc64-34f701b669d1)
