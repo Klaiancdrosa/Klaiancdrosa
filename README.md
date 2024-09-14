@@ -10,13 +10,13 @@
 ## Linguagens que utilizo HAHA:
 <div style="display: inline_block">
   
-[![My Skills](https://skillicons.dev/icons?i=cs,css,html,mysql,py,vscode,visualstudio,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,mysql,py,vscode,visualstudio,php&perline=4)](https://skillicons.dev)
 
 </div>
 
 ## Linguagens que estou estudando no momento:
 
 
-[![My Skills](https://skillicons.dev/icons?i=php,tensorflow,django,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
 
 ##
