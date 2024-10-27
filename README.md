@@ -7,7 +7,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaiancdrosa&layout=compact&hide_border=true&title_color=be2ed6&text_color=fff&bg_color=0d1117" />
 </div>
 
-## Linguagens que utilizo HAHA:
+## Linguagens que utilizo :
 <div style="display: inline_block">
   
 [![My Skills](https://skillicons.dev/icons?i=css,html,mysql,py,vscode,visualstudio,php&perline=4)](https://skillicons.dev)
