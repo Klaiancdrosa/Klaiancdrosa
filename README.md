@@ -1,4 +1,4 @@
-## Meu nome é Klaian Conceição da Rosa. Fique a vontade...
+## Meu nome é Klaian Conceição da Rosa. Estou no último ano do Técnico em TI e cursando o 1º Semestre de ADS.
 
 
 
@@ -10,7 +10,7 @@
 ## Linguagens que utilizo :
 <div style="display: inline_block">
   
-[![My Skills](https://skillicons.dev/icons?i=css,html,mysql,py,vscode,visualstudio,php&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,mysql,vscode,java,php&perline=4)](https://skillicons.dev)
 
 </div>
 
