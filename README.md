@@ -10,13 +10,13 @@
 ## Linguagens que utilizo :
 <div style="display: inline_block">
   
-[![My Skills](https://skillicons.dev/icons?i=css,html,mysql,vscode,java,php&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,mysql,vscode,php&perline=4)](https://skillicons.dev)
 
 </div>
 
 ## Linguagens que estou estudando no momento:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js&theme=dark)](https://skillicons.dev)
 
 ##
